@@ -1,4 +1,4 @@
-# flutter_notifications
+# Flutter Location Notifications
 
 A Flutter Local Notifications Project.
 
@@ -26,3 +26,4 @@ Perfect for newcomers diving into Flutter, my project simplifies notification ma
 Whether you're a beginner or an experienced developer, this project provides valuable insights into effective notification handling in Flutter. Fork it, star it, and let the notification magic begin!
 
 #FlutterDevelopment #NotificationsInFlutter #FlutterLocalNotifications #MobileAppDevelopment #ProgrammingBeginners #TechGuide #OpenSourceProject #GitHubRepository 🌟💻
+
